@@ -1,4 +1,4 @@
-package Creational.Factory;
+package Creational.Factory.ShapeFactory;
 
 public class Circle implements Shape{
 
