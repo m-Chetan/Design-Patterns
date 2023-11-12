@@ -1,4 +1,4 @@
-package Creational.Builder;
+package Creational.Builder.Example1;
 
 import java.util.ArrayList;
 import java.util.List;
